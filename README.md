@@ -1,2 +1,4 @@
 # LEARNING-JAVASCRIPT
- console : uses repl
+ console : uses REPL -> READ , EVALUATE , PRINT , LOOP
+
+ ctrl + l -> CLEARS THE CONSOLE
