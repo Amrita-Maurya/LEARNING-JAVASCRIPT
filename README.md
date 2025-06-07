@@ -18,3 +18,18 @@ snake_case - Python
 TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
 ##### https://www.typescriptlang.org/
 ##### UNDEFINED : no type , no value , the compiler does not know what you are trying to refer
+
+### COMPARISON OPERATOR 
+== : compares value not type : null == undefined -> true 
+
+=== : compares both value and type null === undefined -> true
+
+### LOGICAL OPERATORS 
+
+&& : AND
+
+|| : OR
+
+! : NOT
+
+
