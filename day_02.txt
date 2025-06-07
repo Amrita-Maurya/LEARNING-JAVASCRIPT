@@ -1,2 +1,25 @@
 DAY 02
+
+COMPARISON OPERATOR
+
+== : compares value not type : null == undefined -> true
+=== : compares both value and type null === undefined -> true
+
+LOGICAL OPERATORS
+
+&& : AND
+|| : OR
+! : NOT
+
+FALSY VALUES 
+
+the specific falsy values in JavaScript:
+
+false: The boolean literal representing false.
+0: The number zero. This includes both positive and negative zero (-0).
+0n: The BigInt zero.
+"" (empty string): A string with no characters. This includes both single and double quotes.
+null: Represents the intentional absence of any object value.
+undefined: Represents a variable that has not been assigned a value.
+NaN: "Not a Number," resulting from invalid mathematical operations.
   
